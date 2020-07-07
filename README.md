@@ -9,6 +9,8 @@ SteVe was developed at the RWTH Aachen University and means Steckdosenverwaltung
 
 SteVe is considered as an open platform to implement, test and evaluate novel ideas for electric mobility, like authentication protocols, reservation mechanisms for charge points, and business models for electric mobility. SteVe is distributed under [GPL](LICENSE.txt) and is free to use. If you are going to deploy SteVe we are happy to see the [logo](website/logo/managed-by-steve.pdf) on a charge point.
 
+This fork provides an example of how SteVe can be extended to include an OCPI module written in Kotlin.
+
 ### Charge Point Support
 
 Electric charge points using the following OCPP versions are supported:
